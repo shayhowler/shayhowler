@@ -82,7 +82,8 @@ Landing pages are SSR; apps are CSR. No React. No Java. JS only when absolutely 
   - Iyzico sandbox integration (not a fan of it)
 
 # 🧱 Future itch
-- DB project (Rust/Elixir/Gleam)
+- Browser project (Rust/Go/Elixir/Gleam
+- DB project (Rust/Go/Elixir/Gleam)
 - Write my own OS and kernel from scratch someday
 
 # 🎮 Off‑hours
