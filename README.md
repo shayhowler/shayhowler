@@ -34,8 +34,8 @@ Landing pages are SSR; apps are CSR. No React. No Java. JS only when absolutely 
 ![Neovim (plan)](https://img.shields.io/badge/Neovim%20(plan)-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 # 🚢 What I’m building
-- Multi‑account email client (current focus) with CI/CD automation  
-  - Installers: NSIS (Windows), DMG (macOS), AppImage (Linux)
+- Browser project with multi language support to start a new era on web
+  - Learning phase
 - Database project with Rust, Elixir, Gleam
   - Learning phase
 
@@ -67,7 +67,7 @@ Landing pages are SSR; apps are CSR. No React. No Java. JS only when absolutely 
 
 ## Personal Projects
 - Multiple small Rust repos (algorithms, learning Rust by doing)
-- Multi‑account email client (current main focus)
+- Multi‑account email client
 
 ## Internships
 - Internship 1:
